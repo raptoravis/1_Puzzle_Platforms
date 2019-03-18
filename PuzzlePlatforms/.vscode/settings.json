@@ -1,0 +1,8 @@
+{
+	"files.exclude": {
+		"E:/WWWW/ueprojects/1_Puzzle_Platforms/PuzzlePlatforms/.vscode": true,
+		"E:/WWWW/ueprojects/1_Puzzle_Platforms/PuzzlePlatforms/Content": true,
+		"E:/WWWW/ueprojects/1_Puzzle_Platforms/PuzzlePlatforms/Intermediate": true,
+		"E:/WWWW/ueprojects/1_Puzzle_Platforms/PuzzlePlatforms/Saved": true
+	}
+}
